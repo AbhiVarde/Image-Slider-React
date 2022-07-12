@@ -27,7 +27,7 @@ const App = () => {
                 <ImageSlider slides = {slides} />
             </div>
             <br></br>
-            <center><footer style={{fontFamily: "sans-serif",paddingTop:"44%"}}>&#169; Abhi Varde. All rights reserved.</footer></center>
+            <center><footer style={{fontFamily: "sans-serif",paddingTop:"23%"}}>&#169; Abhi Varde. All rights reserved.</footer></center>
         </div>
     );
 };
